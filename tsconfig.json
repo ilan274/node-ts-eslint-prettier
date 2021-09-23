@@ -8,7 +8,8 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "checkJs": true
   },
   "include": [
     "src/**/*"
